@@ -1,0 +1,17 @@
+{
+  "name": "Bilgir — казахский играючи",
+  "short_name": "Қазақша",
+  "description": "Учим казахский язык в игровой форме: 8 режимов, 3 уровня сложности.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef9fc",
+  "theme_color": "#00AFCA",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
